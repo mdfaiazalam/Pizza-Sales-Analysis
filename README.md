@@ -6,6 +6,9 @@ solving multiple real-world business problems across three difficulty levels: Ba
 ## The project uses 4 tables:
 
 pizzas
+
 pizza_types
+
 orders
+
 order_details
